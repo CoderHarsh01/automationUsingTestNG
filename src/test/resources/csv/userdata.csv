@@ -1,0 +1,4 @@
+ScenarioID,Run,Gender,FirstName,LastName,Email,Password,
+Scenario1,Yes,male,xyz,abc,ere10023@gmail.com,Password123!,
+Scenario2,No,male,xyz,abc,ere10024@gmail.com,Password123!,
+Scenario3,No,male,xyz,abc,erfds@gmail.com,Password123!,
